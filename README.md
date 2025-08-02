@@ -57,6 +57,6 @@ Testing was done using Mockito to validate if data validation for User entity wo
 These tests can be run from ***src/test/java/com.ktoufiquee.taskamanger/controller/UserControllerTest***. This script was ran in Intellij IDEA.
 
 # Screenshots
-<img src="/screenshots/Screenshot 2024-02-01 122558.png" alt="image" width="300" height="auto"><img src="/screenshots/Screenshot 2024-02-01 123247.png" alt="image" width="300" height="auto"> <br>
-<img src="/screenshots/Screenshot 2024-02-01 123314.png" alt="image" width="600" height="auto"><img src="/screenshots/Screenshot 2024-02-01 123417.png" alt="image" width="600" height="auto"> <br>
+<img src="/screenshots/Screenshot 2024-02-01 122558.png" alt="image" width="300" height="auto"><img src="/screenshots/Screenshot_2024-02-01_123247.png" alt="image" width="300" height="auto"> <br>
+<img src="/screenshots/Screenshot_2024-02-01_123314.png" alt="image" width="600" height="auto"><img src="/screenshots/Screenshot_2024-02-01_123417.png" alt="image" width="600" height="auto"> <br>
 
